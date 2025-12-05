@@ -5,9 +5,13 @@ This app uses the **Student Depression Dataset** from **Kaggle** to build a pred
 ## Project structure
 
 .DEPRESSION_PREDICTING
+
 ├── student_depression_predictor.py # Main Streamlit application
+
 ├── depression_model.pkl # Trained RandomForest model file
+
 ├── scaler.pkl #StandardScaler object
+
 └── requirements.txt # Required libraries
 
 ## Requirements
